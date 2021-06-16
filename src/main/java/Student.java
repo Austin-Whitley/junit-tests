@@ -34,6 +34,4 @@ public class Student {
         }
         return acc / grades.size();
     }
-
-
 }
